@@ -1,1 +1,1 @@
-# git_new_repo
+Hi, we are learning Git
